@@ -1,2 +1,2 @@
 # DSA-GRIND
-DSA basics to advanced with deep understanding
+DSA basics to advance with deep understanding
